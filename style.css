@@ -5,5 +5,12 @@ body {
 h1 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 50px;
+    color: #000;
     text-align: center;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: #333;
 }
