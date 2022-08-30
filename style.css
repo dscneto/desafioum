@@ -22,6 +22,6 @@ a {
     color: rgb(255, 0, 0);
 }
 
-a::after {
+a:target {
     color: rgb(255, 230, 0);
 }
