@@ -18,6 +18,7 @@ h2 {
 
 p {
     text-indent: 16px;
+    text-justify: auto;
     font-size: 20px;
     color: #000;
     background-color: azure;
