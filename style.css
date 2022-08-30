@@ -15,8 +15,13 @@ h2 {
 }
 
 p {
+    text-indent: 16px;
     font-size: 20px;
-    color: #bbb;
+    color: #000;
+    background-color: azure;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 4px;
 }
 
 a {
